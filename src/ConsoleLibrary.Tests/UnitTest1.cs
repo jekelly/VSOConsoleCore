@@ -8,7 +8,7 @@ namespace ConsoleLibrary.Tests
         [Fact]
         public void Test1()
         {
-
+            Assert.True(false, "I should be true");
         }
     }
 }
